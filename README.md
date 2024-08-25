@@ -4,7 +4,7 @@ This repo focuses on walkthroughs for some online retired machines. Here you can
 
 ## Currently done labs from #cyberdefenders
 
-[RARCVE](http://www.cyberdefenders.org/blueteam-ctf-challenges/rarcve))
+[RARCVE](http://www.cyberdefenders.org/blueteam-ctf-challenges/rarcve)
 
 ## Currently done labs from #tryhackme
 
